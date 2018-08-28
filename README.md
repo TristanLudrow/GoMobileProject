@@ -1,2 +1,2 @@
 # GoMobileProject
-react native 调用GoMobile SDK
+react native 调用GoMobile SDK Demo
